@@ -1,6 +1,6 @@
 {
   "name": "prpr-lerna-popular2",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
-    "prpr-lerna-core2": "^1.0.8"
+    "prpr-lerna-core2": "^1.0.9"
   },
   "gitHead": "3a353bbe699e0e753217129c7a81faf404859502"
 }
