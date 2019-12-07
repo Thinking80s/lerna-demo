@@ -3,6 +3,10 @@
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinking80s/lerna-demo.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
