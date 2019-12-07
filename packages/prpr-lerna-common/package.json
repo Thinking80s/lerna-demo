@@ -1,5 +1,5 @@
 {
-  "name": "common",
+  "name": "prpr-lerna-common",
   "version": "1.0.10",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "b7f141d2811fc758d41614dcef01d283cafd6970"
+  "gitHead": "ae47dd2b77c48d104285fd8c9ca6db1e2be9a170"
 }
