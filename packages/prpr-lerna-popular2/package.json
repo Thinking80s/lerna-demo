@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "prpr-lerna-core2": "^1.0.9"
   },
   "gitHead": "3a353bbe699e0e753217129c7a81faf404859502"
